@@ -5,6 +5,11 @@ style: |
     .slide:after {
         display: none;
     }
+    #Cover {
+        background: url("pictures/cover.jpg");
+        background-size: cover;
+        color:#FFF;
+    }
     #Cover h2 {
         margin:30px 0 0;
         color:#FFF;
@@ -21,23 +26,11 @@ style: |
         #Cover p a {
             color:#FFF;
             }
-    #Picture h2 {
-        color:#FFF;
-        }
-    #SeeMore h2 {
-        font-size:100px
-        }
-    #SeeMore img {
-        width:0.72em;
-        height:0.72em;
-        }
 ---
 
 # Functional programming principles {#Cover}
 
 *By [Julien Tanguy](http://twitter.com/jutanguy)*
-
-![](pictures/cover.jpg)
 <!-- cover by Paul Emmeth, http://feelgrafix.com/850223-math-wallpaper.html -->
 
 ## **λ**
