@@ -35,4 +35,12 @@ style: |
 
 ## **λ**
 
-Rest: TODO
+## **Functions**
+
+## **Data**
+
+## **Algebraic data types**
+
+## **Types**
+
+
